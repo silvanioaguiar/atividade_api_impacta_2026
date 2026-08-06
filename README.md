@@ -1,3 +1,10 @@
+Grupo:
+Silvanio de Souza Aguiar Junior
+Genilson Martins Moreira
+Andreia Macedo de Lima
+Denis Lucas Donato
+Gênison Martins Moreira
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
